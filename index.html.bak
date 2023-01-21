@@ -668,7 +668,7 @@ That's why we've built our platform with encryption at the core of its design an
                            </div>
                     </div>
                    </div>
-                 <!--  <div class="row">
+                  <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6">
                         <figure class="teams-fig">
                             <img src="./assets/images/teams-img3.png" alt="">
@@ -682,7 +682,7 @@ That's why we've built our platform with encryption at the core of its design an
                                 </ul>
                             </div>
                          <div class="teams-text">
-                            <h5>Samar</h5>
+                            <h5>Shruti Jaiswal</h5>
                             <p>Head Executive</p>
                            </div>
                            </div>
@@ -700,12 +700,12 @@ That's why we've built our platform with encryption at the core of its design an
                             </ul>
                         </div>
                        <div class="teams-text">
-                        <h5>Christin Jonson</h5>
+                        <h5>Samar Chauhan</h5>
                         <p>ETHICAL HACKER</p>
                        </div>
                        </div>
                  </div>
-                 -->
+                 
                 </div>
             </div>
         </div>
@@ -798,7 +798,7 @@ That's why we've built our platform with encryption at the core of its design an
                 <h2 class="text-center aos-init aos-animate" data-aos="fade-left">Send us a Message</h2>
             </div>
            </div>
-            <form id="form_id" method="post" action="contact-form.php">
+            <form id="form_id" method="post" action="#">
                 <div class="contact-us-wrapper">
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-12">
@@ -919,7 +919,7 @@ That's why we've built our platform with encryption at the core of its design an
                 <div class="footer-bar-content w-100">
                     <p class="text-size-16 mb-0">Cybro © 2023. All Rights Reserved.
                    <br>
-                   Made with ❤️ by Sonu & Manas</p>
+                   Made with ❤️ by Sonu, Manas, Shruti & Samar.</p>
                 </div>
             </div>
        </div>
